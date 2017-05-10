@@ -8,3 +8,4 @@ score 5: baseball 9-4
 score 6: baseball 5-4
 score 7: soccer 1-0
 score 8: soccer 3-3
+score 9: football 42-28
